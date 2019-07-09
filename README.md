@@ -1,2 +1,2 @@
-# React-Calculator
-Calculator built using React. Code concept via https://github.com/ahfarmer/calculator
+## React-Calculator
+- Calculator made using Reactjs
